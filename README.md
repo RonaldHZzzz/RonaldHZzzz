@@ -30,6 +30,7 @@
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="80">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="80">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="80">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80">
     </div>
     <h2 align="center">🛠️ Entornos de desarrollo</h2>
     <div align="center">
