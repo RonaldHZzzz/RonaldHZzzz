@@ -1,10 +1,10 @@
 
 
 <header align="left">
-    <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
     <h1 align="left"> Hola, soy Ronald <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
+            <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
             <li>🖥️ Junior Backend Developer apasionado por el desarrollo backend</li>
             <li>🐍 Mi lenguaje favorito es Python, pero también utilizo JavaScript</li>
             <li>⚙️ Trabajo con frameworks como Django y Django Rest Framework</li>
