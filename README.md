@@ -32,11 +32,7 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="80">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80">
     </div>
-    <h2 align="center">🛠️ Entornos de desarrollo</h2>
-    <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="80">
-        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="80">
-    </div>
+   
 </div>
 
 <hr>
