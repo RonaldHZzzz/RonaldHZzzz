@@ -58,12 +58,7 @@ Ingeniero y desarrollador especializado en la convergencia entre TI y OT (Tecnol
 
 <hr>
 
-## 📈 Estadísticas de GitHub
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RonaldHZzzz&include_all_commits=true&show_icons=true&theme=radical" height="190" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldHZzzz&layout=compact&hide=css&theme=radical" height="190" alt="Top Languages">
-</div>
 
 <hr>
 
