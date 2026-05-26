@@ -1,45 +1,75 @@
-
-
-<header align="left">
-    <h1 align="left"> Hola, soy Ronald <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <h3 align="left">
-        <ul>
-            <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
-            <li>🖥️ Junior Backend Developer apasionado por el desarrollo backend</li>
-            <li>🐍 Mi lenguaje favorito es Python, pero también utilizo JavaScript</li>
-            <li>⚙️ Trabajo con frameworks como Django y Django Rest Framework</li>
-            <li>🔍 Enfocado en construir soluciones escalables y eficientes</li>
-            <h3>💡 Intereses: </h3>
-            <li>Análisis de Datos con python</li>
-            <li>Automatización</li>
-            <li>IoT e IIoT</li>
-            <li>Digitalización Industrial</li>
-            <li>CNN</li>
-        </ul>
-    </h3>
+<header align="center">
+    <h1>Hola, soy Ronald Hernández 👋</h1>
+    <h2>Digital Industry Developer | Backend, IoT & Cloud | AI-Driven Systems</h2>
+    <p><i>IoT Cloud & Edge Computing Manager | IIoT Specialist | Automation Engineer</i></p>
 </header>
 
 <hr>
 
+## 👨‍💻 Perfil Profesional
+
+Ingeniero y desarrollador especializado en la convergencia entre TI y OT (Tecnologías de la Información y Operación). Me enfoco en construir arquitecturas escalables, desde la extracción de datos en la industria mediante protocolos IoT, hasta su análisis avanzado utilizando Inteligencia Artificial y Machine Learning en la nube.
+
+* ⚙️ **Digitalización Industrial y Edge Computing:** Arquitectura y despliegue de soluciones IIoT y gestión de dispositivos **SIMATIC IOT2050**, **Siemens Industrial Edge** y **Energy Manager PRO**. Integración de hardware de medición como **B Meters**.
+* 🧠 **Inteligencia Artificial y Computer Vision:** Diseño de modelos de Machine Learning y Deep Learning con **PyTorch**, **TensorFlow**, **CNTK** y modelos de detección de objetos como **YOLOv8**. Implementación de servicios como **AWS Rekognition** para lógicas biométricas complejas.
+* 🐍 **Desarrollo Backend y SaaS:** Construcción de APIs, automatización y sistemas corporativos escalables utilizando **Python**, **Django**, **TypeScript** y **Node.js**. Experiencia desarrollando en entornos robustos como **Antigravity**.
+* 📊 **Cloud, Bases de Datos y Despliegue:** Arquitecto de soluciones en la nube (**Azure**, **AWS**) y despliegue rápido con **Vercel**. Gestión integral de datos en tiempo real y transaccionales integrando **InfluxDB**, **PostgreSQL** y **SQL Server**.
+
+## 🚀 Portafolio de Proyectos
+
+### 🏭 IoT & Industrial Digitalization
+* **SubTerra Insights:** Sistema IIoT avanzado para el monitoreo de aguas subterráneas, integrando hardware industrial para la captura, procesamiento y análisis de datos críticos en tiempo real.
+* **Intelligent Substation:** Desarrollo backend (Python) para la monitorización y gestión inteligente de subestaciones.
+* **Edge Backend Automatización:** Migración y optimización de arquitectura backend para procesos de automatización industrial en el Edge (Python).
+
+### 🤖 Inteligencia Artificial & Computer Vision
+* **Handspeak:** Traductor de lenguaje de señas impulsado por visión por computadora y modelos de Deep Learning (Python).
+* **AI Fake News Detector:** Sistema de detección de noticias falsas utilizando modelos de Inteligencia Artificial para el análisis de veracidad de la información (TypeScript).
+* **Traffic Predictor:** Modelo predictivo para el análisis y pronóstico de flujo vehicular (TypeScript).
+
+### 💻 Soluciones SaaS & Desarrollo Corporativo
+* **Siemens Cafeteria Management:** Plataforma integral para la gestión operativa y de usuarios del comedor corporativo de Siemens (TypeScript, Node.js).
+* **SaaS Beauty Management (PL-Project_v2):** Arquitectura de Software as a Service (SaaS) backend para la administración completa de salones de belleza (Python, Django).
+
+## 📜 Certificaciones Destacadas
+
+* **Python and Artificial Intelligence** - *Samsung Innovation Campus*
+* **MQTT Foundation Certificate** - *Cedalo (Especialización en IIoT)*
+* **Scrum Fundamentals Certified (SFC)** - *United Latino Students Association*
+* **Cybersecurity, IoT & Networking Frameworks:** *Introduction to IoT, Introduction to Cybersecurity, Networking Essentials, Python Essentials 2, JavaScript Essentials 1 (Cisco Networking Academy)*
+
+## 🛠️ Stack Tecnológico y Herramientas
+
 <div align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50">
-    <div align="center">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="80">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="80">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="80">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="80">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="80">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="80">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80">
-    </div>
-   
+    <h3>IA, Machine Learning & Data</h3>
+    <br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" alt="AI and Data Stack" />
+    <br><br>
+    <h3>Arquitectura Backend & Frontend</h3>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,django,ts,nodejs,react,nextjs,tailwind" alt="Backend and Frontend Stack" />
+    <br><br>
+    <h3>Cloud, Despliegue & Bases de Datos</h3>
+    <br>
+    <img src="https://skillicons.dev/icons?i=azure,aws,vercel,postgres,linux,docker,github" alt="Cloud and DB Stack" />
+    <br><br>
+    <p><b>Bases de Datos Adicionales & Tecnologías Industriales:</b> <i>SQL Server | InfluxDB | YOLOv8 | Siemens SIMATIC IOT2050 | Node-RED</i></p>
 </div>
 
 <hr>
 
-<footer align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RonaldHZzzz&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldHZzzz&layout=compact&hide=css&theme=radical" alt="Lenguajes más usados" height="250">
-    </p>
-</footer>
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RonaldHZzzz&include_all_commits=true&show_icons=true&theme=radical" height="190" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldHZzzz&layout=compact&hide=css&theme=radical" height="190" alt="Top Languages">
+</div>
+
+<hr>
+
+<div align="center">
+    <h3>📫 Conecta conmigo</h3>
+    <a href="https://www.linkedin.com/in/ronald-hernandez-4a3aaa310/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn" />
+    </a>
+</div>
