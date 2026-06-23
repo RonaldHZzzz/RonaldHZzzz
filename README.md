@@ -1,6 +1,6 @@
 <header align="center">
     <h1>Hola, soy Ronald Hernández 👋</h1>
-    <h2>Digital Industry Developer | Backend, IoT & Cloud | AI-Driven Systems</h2>
+    <h2>Full Stack Developer</h2>
     <p><i>IoT Cloud & Edge Computing Manager | IIoT Specialist | Automation Engineer</i></p>
 </header>
 
